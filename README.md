@@ -14,7 +14,7 @@ Click [here](https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-c
 ## Built with
 * HTML
 * CSS
-* Git, GitHub and GitHub Pages
+* Git, GitHub and VScode
 
 ## How to use
 1. Clone the repository and change directory.
