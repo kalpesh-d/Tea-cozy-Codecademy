@@ -20,7 +20,7 @@ Click [here](https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-c
 1. Clone the repository and change directory.
 
 ```
-git clone https://github.com/RahimGuerfi/tea-cozy.git
+git clone https://github.com/kalpesh-d/Tea-cozy-Codecademy.git
 ```
 
 2. Open "tea-cozy/index.html" file.
